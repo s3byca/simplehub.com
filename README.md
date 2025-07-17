@@ -1,2 +1,2 @@
 # simplehub.com
-Store-ul oficil al serverului de minecraft SimpleHub
+Store-ul oficial al serverului de minecraft SimpleHub
